@@ -10,13 +10,13 @@ Mempelajari Wireshark
 
 ## Lampiran
 Hasil Percobaan:
-! [Hasil Percobaan](../assets/image/foto1.png)
+![Hasil Percobaan](../assets/image/foto1.png)
 
-! [Hasil Percobaan](../assets/image/foto2.png)
+![Hasil Percobaan](../assets/image/foto2.png)
 
-! [Hasil Percobaan](../assets/image/foto3.png)
+![Hasil Percobaan](../assets/image/foto3.png)
 
-! [Hasil Percobaan](../assets/image/foto4.png)
+![Hasil Percobaan](../assets/image/foto4.png)
 
-! [Hasil Percobaan](../assets/image/foto5.png)
+![Hasil Percobaan](../assets/image/foto5.png)
 
