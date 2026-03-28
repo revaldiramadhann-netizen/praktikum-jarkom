@@ -10,11 +10,13 @@ server tersebut? ![Hasil Percobaan](../assets/image/soal1(4.2).png)
 3. Jalankan nslookup untuk mencari tahu informasi mengenai server email dari Yahoo! Mail
 melalui salah satu server yang didapatkan di pertanyaan nomor 2. Apa alamat IP-nya? 
 ![Hasil Percobaan](../assets/image/soal3.1(4.2).png.png)
+
 ![Hasil Percobaan](../assets/image/soal3.2(4.2).png.png)
 
 # Soal 4.4 Tracing D NS dengan Wireshark
 1. Cari pesan permintaan DNS dan balasannya. Apakah pesan tersebut dikirimkan melalui UDP 
-atau TCP? YA ![Hasil Percobaan](../assets/image/soal1.png)
+atau TCP? YA ![Hasil Percobaan](../assets/image/soal1(4.4).png)
+
 2. Apa port tujuan pada pesan permintaan DNS? Apa port sumber pada pesan balasannya?
 3. Pada pesan permintaan DNS, apa alamat IP tujuannya? Apa alamat IP server DNS lokal anda 
 (gunakan ipconfig untuk mencari tahu)? Apakah kedua alamat IP tersebut sama?
