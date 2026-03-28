@@ -10,20 +10,29 @@ server tersebut? ![Hasil Percobaan](../assets/image/soal1(4.2).png)
 3. Jalankan nslookup untuk mencari tahu informasi mengenai server email dari Yahoo! Mail
 melalui salah satu server yang didapatkan di pertanyaan nomor 2. Apa alamat IP-nya? 
 ![Hasil Percobaan](../assets/image/soal3.1(4.2).png.png)
-
-
+![Hasil Percobaan](../assets/image/soal3.2(4.2).png.png)
 
 # Soal 4.4 Tracing D NS dengan Wireshark
 1. Cari pesan permintaan DNS dan balasannya. Apakah pesan tersebut dikirimkan melalui UDP 
 atau TCP? YA ![Hasil Percobaan](../assets/image/soal1(4.4).png)
 
 2. Apa port tujuan pada pesan permintaan DNS? Apa port sumber pada pesan balasannya?
+![Hasil Percobaan](../assets/image/soal2.1(4.4).png)
+![Hasil Percobaan](../assets/image/soal2.2(4.4).png)
+
 3. Pada pesan permintaan DNS, apa alamat IP tujuannya? Apa alamat IP server DNS lokal anda 
-(gunakan ipconfig untuk mencari tahu)? Apakah kedua alamat IP tersebut sama?
+(gunakan ipconfig untuk mencari tahu)? Apakah kedua alamat IP tersebut sama? 
+![Hasil Percobaan](../assets/image/soal3(4.4).png)
+
 4. Periksa pesan permintaan DNS. Apa “jenis” atau ”type” dari pesan tersebut? Apakah pesan 
-permintaan tersebut mengandung ”jawaban” atau ”answers”?
+permintaan tersebut mengandung ”jawaban” atau ”answers”? 
+![Hasil Percobaan](../assets/image/soal4(4.4).png)
+
 5. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau ”answers” yang terdapat di 
-dalamnya? Apa saja isi yang terkandung dalam setiap jawaban tersebut?
+dalamnya? Apa saja isi yang terkandung dalam setiap jawaban tersebut? 
+![Hasil Percobaan](../assets/image/soal5.1(4.4).png)
+![Hasil Percobaan](../assets/image/soal5.2(4.4).png)
+
 6. Perhatikan paket TCP SYN yang selanjutnya dikirimkan oleh host Anda. Apakah alamat IP 
 pada paket tersebut sesuai dengan alamat IP yang tertera pada pesan balasan DNS?
 7. Halaman web yang sebelumnya anda akses (http://www.ietf.org) memuat beberapa 
