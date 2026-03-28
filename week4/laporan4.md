@@ -9,8 +9,8 @@ server tersebut? ![Hasil Percobaan](../assets/image/soal1(4.2).png)
 
 3. Jalankan nslookup untuk mencari tahu informasi mengenai server email dari Yahoo! Mail
 melalui salah satu server yang didapatkan di pertanyaan nomor 2. Apa alamat IP-nya? 
-![Hasil Percobaan](../assets/image/soal3.1(4.2).png.png)
-![Hasil Percobaan](../assets/image/soal3.2(4.2).png.png)
+![Hasil Percobaan](../assets/image/soal3.1(4.2).png)
+![Hasil Percobaan](../assets/image/soal3.2(4.2).png)
 
 # Soal 4.4 Tracing D NS dengan Wireshark
 1. Cari pesan permintaan DNS dan balasannya. Apakah pesan tersebut dikirimkan melalui UDP 
@@ -29,7 +29,7 @@ permintaan tersebut mengandung ”jawaban” atau ”answers”?
 ![Hasil Percobaan](../assets/image/soal4(4.4).png)
 
 5. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau ”answers” yang terdapat di 
-dalamnya? Apa saja isi yang terkandung dalam setiap jawaban tersebut? 
+dalamnya?Apa saja isi yang terkandung dalam setiap jawaban tersebut? 
 ![Hasil Percobaan](../assets/image/soal5.1(4.4).png)
 ![Hasil Percobaan](../assets/image/soal5.2(4.4).png)
 
