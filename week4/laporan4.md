@@ -11,7 +11,7 @@ server tersebut? ![Hasil Percobaan](../assets/image/soal1(4.2).png)
 melalui salah satu server yang didapatkan di pertanyaan nomor 2. Apa alamat IP-nya? 
 ![Hasil Percobaan](../assets/image/soal3.1(4.2).png.png)
 
-![Hasil Percobaan](../assets/image/soal3.2(4.2).png.png)
+
 
 # Soal 4.4 Tracing D NS dengan Wireshark
 1. Cari pesan permintaan DNS dan balasannya. Apakah pesan tersebut dikirimkan melalui UDP 
