@@ -43,30 +43,52 @@ mengakses suatu gambar? Tidak perlu
 
 # Soal Kedua
 1. Apa port tujuan pada pesan permintaan DNS? Apa port sumber pada pesan balasan DNS?
+Port tujuannya yaitu 53 dan sumbernya adalah 50968
+![Hasil Percobaan](../assets/image/soal1(2).png)
+
 2. Ke alamat IP manakah pesan permintaan DNS dikirimkan? Apakah alamat IP tersebut 
-merupakan default alamat IP server DNS lokal Anda?
+merupakan default alamat IP server DNS lokal Anda? 
+![Hasil Percobaan](../assets/image/soal1.2(2).png)
+
 3. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan 
-tersebut mengandung ”jawaban” atau ”answers”?
+tersebut mengandung ”jawaban” atau ”answers”? ![Hasil Percobaan](../assets/image/soal2.1(2).png)
+
 4. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau “answers” yang terdapat di 
 dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut?
-5. Sertakan hasil tangkapan layar.
+ ![Hasil Percobaan](../assets/image/soal2.2(2).png)
+
+5. Sertakan hasil tangkapan layar. ![Hasil Percobaan](../assets/image/soal3(2).png)
+
 
 # Soal Ketiga
 1. Ke alamat IP manakah pesan permintaan DNS dikirimkan? Apakah alamat IP tersebut 
-merupakan default alamat IP server DNS lokal Anda?
-2. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan 
-tersebut mengandung ”jawaban” atau ”answers”?
+merupakan default alamat IP server DNS lokal Anda? Port tujuannya ada 53 dan sumbernya ada 61384
+![Hasil Percobaan](../assets/image/soal1(3).png)
+![Hasil Percobaan](../assets/image/soal2(3).png)
+
+2. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan
+tersebut mengandung ”jawaban” atau ”answers”? Jenis atau tipe AAAA, dan ada dua jawaban
+![Hasil Percobaan](../assets/image/soal3(3).png)
+
 3. Periksa pesan balasan DNS. Apa nama server MIT yang diberikan oleh pesan balasan? 
-Apakah pesan balasan ini juga memberikan alamat IP untuk server MIT tersebut?
-4. Sertakan hasil tangkapan layar.
+Apakah pesan balasan ini juga memberikan alamat IP untuk server MIT tersebut? server DNS tidak menyertakan Additional Records yang berisi daftar Name Server otoritatif untuk domain mit.edu. Namun, pesan tersebut memberikan jawaban atas query AAAA
+
+4. Sertakan hasil tangkapan layar. ![Hasil Percobaan](../assets/image/soal4(3).png)
+
 
 # Soal Keempat
 1. Ke alamat IP manakah pesan permintaan DNS dikirimkan? Apakah alamat IP tersebut 
-merupakan default alamat IP server DNS lokal Anda?
+merupakan default alamat IP server DNS lokal Anda? 
+![Hasil Percobaan](../assets/image/soal1(4).png)
+![Hasil Percobaan](../assets/image/soal2(4).png)
+
 2. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan 
-tersebut mengandung ”jawaban” atau ”answers”?
+tersebut mengandung ”jawaban” atau ”answers”? ![Hasil Percobaan](../assets/image/soal2(5).png)
+
 3. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau “answers” yang terdapat di 
-dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut?
+dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut? 
+![Hasil Percobaan](../assets/image/soal3(4).png)
+
 4. Sertakan hasil tangkapan layar.
 
 # Lampiran Modul 5
